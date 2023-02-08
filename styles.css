@@ -1,0 +1,103 @@
+body{
+    text-align:center;
+    color:whitestroke;
+    font-size:20px;
+    background-image:url("https://i.ibb.co/dkPBZR3/images-2020-06-T014905-455.jpg");
+}
+
+      
+
+p{
+        font-weight: bolder;
+        font-size: 4.5rem;
+        text-align: center;
+       
+   
+}
+
+
+.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+.sansserif {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+.monospace {
+    font-family: "Courier New", Courier, monospace;
+}
+.monospacee {
+    font-family: "Courier New", Courier, monospace;
+    font-size:1rem;
+}
+
+.cursive {
+    font-family: Florence, cursive;
+}
+
+
+.fantasy {
+    font-family: Blippo, fantasy;
+}
+
+
+
+
+
+#countdown {
+        font-weight: bold;
+        font-size: 5rem;
+        text-align: center;
+}
+
+h1{
+        color: #777777;
+        font-weight: bolder;
+        font-size: 6.5rem;
+        text-align: center;
+ 
+}
+
+table {
+        border-radius: 20px;
+        margin-bottom: 40px;
+        font-size:3.2rem;
+        gap: 5px;
+    
+}
+
+td{
+        background-color: rgba(255, 0, 0, 0.487);
+        border-radius: 20px;
+        padding: 7px;
+        box-shadow:5px 5px 10px black;
+        margin: 7px;
+}
+
+
+a{
+        font-size: 40px;
+        background-color: black;
+        padding: 10px;
+        border-radius: 10px;
+        font-weight: bolder;
+        color: white;
+        color: red;
+        box-shadow:7px 7px 17px black;
+
+}
+
+.well{
+       box-shadow:7px 7px 17px black;
+        border-radius: 10px;
+        font-weight: bolder;
+
+}
+
+i{
+        color: red;
+        width: 80px;
+    }
